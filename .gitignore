@@ -1,0 +1,6 @@
+# Ignore virtual environment
+tmodel/
+__pycache__/
+
+# Ignore environment config
+.env

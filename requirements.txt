@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
+pydantic == 2.10.6
+reportlab
